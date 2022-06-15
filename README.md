@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @aaronlio
 
+- 🌱 I’m currently studying Engineering Science at the University of Toronto.
+
 - 👀 I’m interested in Biomedical Engineering, more specifically, topics like:
   - Signal Processing, 
   - BCI, 
@@ -7,7 +9,6 @@
   - Robotics for healthcare, and other health-tech innovations. 
   - I'm also interested in cybersecurity, computer chip design, and aircraft/automobile/vehicle design
 
-- 🌱 I’m currently studying Engineering Science at the University of Toronto.
 - 💞️ I’m looking to collaborate on research regarding any of my listed interests, or just to chat about my experiences.
 - 📫 You can contact me by email at aaron.lio@mail.utoronto.ca
 
